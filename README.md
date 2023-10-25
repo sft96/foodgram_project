@@ -14,7 +14,7 @@
 ## Как запустить
 - Клонировать репозиторий
 ```bash
-https://github.com/ShreddedCode/foodgram-project-react.git
+https://github.com/sft96/foodgram_project.git
 ```
 - Подключиться к серверу
 - Установить docker, docker-compose на сервере
