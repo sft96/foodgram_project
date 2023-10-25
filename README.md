@@ -14,7 +14,7 @@
 ## Как запустить
 - Клонировать репозиторий
 ```bash
-https://github.com/sft96/foodgram_project.git
+git clone https://github.com/sft96/foodgram_project.git
 ```
 - Подключиться к серверу
 - Установить docker, docker-compose на сервере
